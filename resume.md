@@ -52,7 +52,7 @@ official packages along with modified and completely custom packages using repre
 
 ### 2010 to 2011: Xerox - Electrical Engineer
 
-* Developed and enhanced 13.56 MHz inductive RFID readers.
+* Developed and enhanced 13.56 MHz near field RFID readers.
 * Programmed PIC24F and ST7 microcontrollers.
 * Reverse engineered various proprietary encryption / authentication systems.
 * Inventor on 2 patent applications.
