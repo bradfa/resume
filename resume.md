@@ -1,7 +1,7 @@
 # Andrew Bradford
 
-32 S Village Trl  
-Fairport, NY 14450  
+1870 Halesworth Ln  
+Ontario, NY 14519  
 [andrew@bradfordembedded.com][email]  
 (585) 271-5864  
 
