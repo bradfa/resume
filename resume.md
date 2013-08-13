@@ -11,11 +11,15 @@ Ontario, NY 14519
 
 * Developer on the [Cross Linux From Scratch embedded book][clfs].
 * Participant in the [BeagleBoard.org][beagle] community.
+* Backup mentor for [Google Summer of Code][gsoc] [Userspace Arduino][ua]
+  project.
 * Contributor to the [Das U-Boot][u-boot] boot loader.
 * My [GitHub][github] account.
 
 [clfs]: http://cross-lfs.org/view/clfs-embedded/
 [beagle]: http://beagleboard.org
+[gsoc]: https://www.google-melange.com/gsoc/homepage/google/gsoc2013
+[ua]: http://elinux.org/Userspace_Arduino
 [u-boot]: http://www.denx.de/wiki/U-Boot/WebHome
 [github]: http://github.com/bradfa
 
