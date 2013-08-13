@@ -38,21 +38,20 @@ Packt Publishing in 2012.
 
 ### 2011 to present: Omni-ID - Embedded Systems Engineer
 
-* Created an embedded Debian Linux system for Texas Instruments' AM3359 system
-on chip.
-* Created a Linux kernel driver to interface a microcontroller based radio
-platform via SPI and GPIO.
-* Created a multi-threaded radio controller having HTTP and XML input and
-interfacing to a microcontroller radio platform.
-* Created a Ruby on Rails application.
-* Developed an identification, encryption, and authentication system to secure
-radio communications.
-* Enhanced the Debian kernel-package tool to build Debian packages for u-boot
-format Linux kernels.
-* Set up a custom Debian package repository mirroring a subset of Debian
-official packages along with modified and completely custom packages using reprepro.
-* Assisted with code cleanup and refactoring of C code for TI's CC430 SoC
-(MSP430 and CC1101 radio combination).
+* Created the Omni-ID Link network gateway - including Linux device drivers,
+  multi-threaded userspace RESTful network application, and hardware
+  architecture specification.
+* Assisted with defining and specifying the protocol and system level operation
+  of Omni-ID's active RFID tag products.
+* Created a prototype Ruby on Rails application to quickly try out design
+  concepts.
+* Proposed an identification, encryption, and authentication system to secure
+  radio communications.
+* Set up and maintained a custom Debian Linux package repository.
+* One half of the firmware development team for Omni-ID's Power 400 active RFID
+  tag using the TI CC430 system on chip.
+* Created and enforced a firmware code review work-flow with git resulting in
+  high quality, low bug count, on-time delivery of firmware.
 
 ### 2010 to 2011: Xerox - Electrical Engineer
 
