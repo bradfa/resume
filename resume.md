@@ -11,15 +11,12 @@ Ontario, NY 14519
 
 * Developer on the [Cross Linux From Scratch embedded book][clfs].
 * Participant in the [BeagleBoard.org][beagle] community.
-* Backup mentor for [Google Summer of Code][gsoc] [Userspace Arduino][ua]
-  project.
 * Contributor to the [Das U-Boot][u-boot] boot loader.
 * My [GitHub][github] account.
 
 [clfs]: http://cross-lfs.org/view/clfs-embedded/
 [beagle]: http://beagleboard.org
 [gsoc]: https://www.google-melange.com/gsoc/homepage/google/gsoc2013
-[ua]: http://elinux.org/Userspace_Arduino
 [u-boot]: http://www.denx.de/wiki/U-Boot/WebHome
 [github]: http://github.com/bradfa
 
@@ -43,15 +40,12 @@ Packt Publishing in 2012.
   architecture specification.
 * Assisted with defining and specifying the protocol and system level operation
   of Omni-ID's active RFID tag products.
-* Created a prototype Ruby on Rails application to quickly try out design
-  concepts.
 * Proposed an identification, encryption, and authentication system to secure
   radio communications.
 * Set up and maintained a custom Debian Linux package repository.
 * One half of the firmware development team for Omni-ID's Power 400 active RFID
-  tag using the TI CC430 system on chip.
-* Created and enforced a firmware code review work-flow with git resulting in
-  high quality, low bug count, on-time delivery of firmware.
+  tag.
+* Created and enforced a firmware code review work-flow with git.
 
 ### 2010 to 2011: Xerox - Electrical Engineer
 
@@ -62,12 +56,12 @@ Packt Publishing in 2012.
 
 ### 2008 to 2010: Xerox - Embedded Software and Test Engineer
 
-* Created an XML-RPC server application for an embedded PowerPC Linux system to
-automate manufacturing functional test.
+* Created an XML-RPC server for an embedded PowerPC Linux system to automate
+  manufacturing functional test.
 * Created a Java based functional test organization system utilizing XML-RPC.
 * Built and supported PowerPC Linux cross compilers.
 * Maintained existing test fixtures for testing embedded systems, including
-enhancements to LabVIEW based test fixtures.
+  enhancements to LabVIEW based test fixtures.
 
 ### 2005 to 2008: Xerox - Power Supply Integration Engineer
 
@@ -82,3 +76,5 @@ digital presses.
 BS Electrical Engineering Rensselaer Polytechnic Institute, 2005  
 Concentration in electric power systems: generation, conversion, and
 distribution.
+
+\pagenumbering{gobble}
