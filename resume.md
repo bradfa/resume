@@ -43,7 +43,7 @@ Packt Publishing in 2012.
 * Lead technical development of the Omni-ID ProVIEW visual active RFID tags
   starting from 2014.
 * Set up and maintained a custom Debian Linux package repository.
-* Assisted with the firmware development of Omni-ID's Power 400 active RFID tag.
+* Assisted with firmware development of the Omni-ID Power 400 active RFID tag.
 
 ### 2010 to 2011: Xerox - Electrical Engineer
 
