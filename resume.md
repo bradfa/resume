@@ -24,11 +24,9 @@ Ontario, NY 14519
 
 * Technical reviewer for [Manage Partitions with GParted][gparted] published by
 Packt Publishing in 2012.
-* Contributor to [Embedded Linux News][emlinews].
 * Personal [blogging][blog].
 
 [gparted]: http://www.packtpub.com/manage-disk-space-partitions-with-gparted/book
-[emlinews]: http://www.emlinews.net
 [blog]: http://www.bradfordembedded.com
 
 ## Employment
