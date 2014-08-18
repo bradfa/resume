@@ -77,5 +77,3 @@ Packt Publishing in 2012.
 BS Electrical Engineering Rensselaer Polytechnic Institute, 2005  
 Concentration in electric power systems: generation, conversion, and
 distribution.
-
-\pagenumbering{gobble}
