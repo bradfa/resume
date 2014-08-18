@@ -33,22 +33,25 @@ Packt Publishing in 2012.
 
 ### 2011 to present: Omni-ID - Embedded Systems Engineer
 
-* Created the Omni-ID Link network gateway - including Linux device drivers,
-  multi-threaded userspace RESTful network application, and hardware
-  architecture specification.
-* Assisted with defining and specifying the protocol and system level operation
-  of Omni-ID's active RFID tag products.
-* Proposed an identification, encryption, and authentication system to secure
-  radio communications.
+* Lead technical development of the Omni-ID Link network gateway: specified the
+  hardware design, created and modified Linux device drivers, deployed a
+  customized version of Debian Linux, and created a multi-threaded RESTful
+  network application.
+* Lead technical development of the Omni-ID Power 415 active RFID tag: created
+  product specification, selected radio protocol implementation, interfaced
+  directly with customers and partners, and developed firmware.
+* Lead technical development of the Omni-ID ProVIEW visual active RFID tags
+  starting from 2014.
 * Set up and maintained a custom Debian Linux package repository.
-* One half of the firmware development team for Omni-ID's Power 400 active RFID
-  tag.
-* Created and enforced a firmware code review work-flow with git.
+* Assisted with the firmware development of Omni-ID's Power 400 active RFID tag.
 
 ### 2010 to 2011: Xerox - Electrical Engineer
 
-* Developed and enhanced 13.56 MHz near field RFID readers.
+* Improved 13.56 MHz near field RFID readers: doubled the read and
+  write range of a reader system used on Xerox toner packing manufacturing
+  lines.
 * Programmed PIC24F and ST7 microcontrollers.
+* Enhanced Verilog HDL used within an RFID reader.
 * Reverse engineered various proprietary encryption / authentication systems.
 * Inventor on 2 patent applications.
 
@@ -63,11 +66,11 @@ Packt Publishing in 2012.
 
 ### 2005 to 2008: Xerox - Power Supply Integration Engineer
 
-* Wrote AC/DC power supply specifications.
+* Specified AC/DC power supplies for use in Xerox Nuvera digital presses.
 * Constructed test fixtures and validated power supplies against specifications.
 * Wrote service documentation for power systems.
-* Planned and implemented power system improvements to the Xerox Nuvera line of
-digital presses.
+* Planned and implemented power system improvements to the Xerox Nuvera and iGen
+  lines of digital presses.
 
 ## Education
 
