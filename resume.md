@@ -29,12 +29,13 @@ Personal blog: [Bradford Embedded][blog]
 * Lead technical development of the Omni-ID Link network gateway: specified the
   hardware design, created and modified Linux device drivers, deployed a
   customized version of Debian Linux, and created a multi-threaded RESTful
-  network application.
-* Lead technical development of the Omni-ID Power 415 active RFID tag: created
-  product specification, selected radio protocol implementation, interfaced
-  directly with customers and partners, and developed firmware.
+  network application in C which interfaced via XML.
+* Lead technical development of the Omni-ID Power 415 IEEE 802.15.4 active RFID
+  tag: created product specification, selected radio protocol implementation,
+  interfaced directly with customers and partners, and developed firmware.
 * Lead technical development of the Omni-ID ProVIEW visual active RFID tags
-  starting from 2014.
+  starting from 2014: created product specification, defined the radio protocol,
+  coordinated vendors, and owned delivery of the family of products.
 * Set up and maintained a custom Debian Linux package repository.
 * Assisted with firmware development of the Omni-ID Power 400 active RFID tag.
 
@@ -50,7 +51,7 @@ Personal blog: [Bradford Embedded][blog]
 
 ### 2008 to 2010: Xerox - Embedded Software and Test Engineer
 
-* Created an XML-RPC server for an embedded PowerPC Linux system to automate
+* Created a C++ XML-RPC server for an embedded PowerPC Linux system to automate
   manufacturing functional test.
 * Created a Java based functional test organization system utilizing XML-RPC.
 * Built and supported PowerPC Linux cross compilers.
