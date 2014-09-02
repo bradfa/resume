@@ -68,6 +68,6 @@ Personal blog: [Bradford Embedded][blog]
 
 ## Education
 
-BS Electrical Engineering Rensselaer Polytechnic Institute, 2005  
+BS Electrical Engineering, Rensselaer Polytechnic Institute, 2005  
 Concentration in electric power systems: generation, conversion, and
 distribution.
