@@ -16,7 +16,6 @@ Ontario, NY 14519
 
 [clfs]: http://cross-lfs.org/view/clfs-embedded/
 [beagle]: http://beagleboard.org
-[gsoc]: https://www.google-melange.com/gsoc/homepage/google/gsoc2013
 [u-boot]: http://www.denx.de/wiki/U-Boot/WebHome
 [github]: http://github.com/bradfa
 
