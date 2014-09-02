@@ -5,7 +5,10 @@ Ontario, NY 14519
 [andrew@bradfordembedded.com][email]  
 (585) 271-5864  
 
+Personal blog: [Bradford Embedded][blog]
+
 [email]: mailto:andrew@bradfordembedded.com
+[blog]: http://www.bradfordembedded.com
 
 ## Open Source Contributions
 
@@ -18,15 +21,6 @@ Ontario, NY 14519
 [beagle]: http://beagleboard.org
 [u-boot]: http://www.denx.de/wiki/U-Boot/WebHome
 [github]: http://github.com/bradfa
-
-## Writing
-
-* Technical reviewer for [Manage Partitions with GParted][gparted] published by
-Packt Publishing in 2012.
-* Personal [blogging][blog].
-
-[gparted]: http://www.packtpub.com/manage-disk-space-partitions-with-gparted/book
-[blog]: http://www.bradfordembedded.com
 
 ## Employment
 
