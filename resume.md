@@ -17,7 +17,7 @@ Personal blog: [Bradford Embedded][blog]
 * Contributor to the [Das U-Boot][u-boot] boot loader.
 * My [GitHub][github] account.
 
-[clfs]: http://cross-lfs.org/view/clfs-embedded/
+[clfs]: http://clfs.org/view/clfs-embedded/
 [beagle]: http://beagleboard.org
 [u-boot]: http://www.denx.de/wiki/U-Boot/WebHome
 [github]: http://github.com/bradfa
