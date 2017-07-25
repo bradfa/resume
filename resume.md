@@ -26,7 +26,7 @@ Personal blog: [Bradford Embedded][blog]
 
 ## Employment
 
-### 2011 to present: Omni-ID - Embedded Systems Engineer
+### 2011 to 2015: Omni-ID - Embedded Systems Engineer
 
 * Led technical development of the Omni-ID Link network gateways (generations 1
   and 2): specified the hardware design, created the product specifications,
