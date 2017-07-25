@@ -13,13 +13,15 @@ Personal blog: [Bradford Embedded][blog]
 ## Open Source Contributions
 
 * Developer on the [Cross Linux From Scratch embedded book][clfs].
-* Participant in the [BeagleBoard.org][beagle] community.
+* Contributor to the [Linux][linux] kernel.
 * Contributor to the [Das U-Boot][u-boot] boot loader.
+* Former participant in the [BeagleBoard.org][beagle] community.
 * My [GitHub][github] account.
 
 [clfs]: http://clfs.org/view/clfs-embedded/
 [beagle]: http://beagleboard.org
 [u-boot]: http://www.denx.de/wiki/U-Boot/WebHome
+[linux]: http://www.kernel.org
 [github]: http://github.com/bradfa
 
 ## Employment
