@@ -26,6 +26,21 @@ Personal blog: [Bradford Embedded][blog]
 
 ## Employment
 
+### 2015 to present: Kodak Alaris - Embedded Linux Software Engineer
+
+* U-Boot and Linux kernel development for ARM and x86 based products.
+* Led implementation of an OpenEmbedded (Yocto Project) based build system for
+  embedded Linux products, including writing of recipes and integration of
+  proprietary software.
+* Contributed patches upstream to OpenEmbedded, the Yocto Project's Poky, and
+  U-Boot.
+* Led technical aspects of defining and implementing open source license
+  compliance.
+* Developed a software defined radio test fixture to assist with ETSI 300 328
+  compliance Wi-Fi validation.
+* Firmware developer on the Kodak Alaris i1150WN and i1190WN scanner products,
+  launched in 2016.
+
 ### 2011 to 2015: Omni-ID - Embedded Systems Engineer
 
 * Led technical development of the Omni-ID Link network gateways (generations 1
