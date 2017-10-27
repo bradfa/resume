@@ -40,6 +40,8 @@ Personal blog: [Bradford Embedded][blog]
   compliance Wi-Fi validation.
 * Firmware developer on the Kodak Alaris i1150WN and i1190WN scanner products,
   launched in 2016.
+* Firmware developer on the Kodak Alaris S2000 series scanner products,
+  launched in 2017.
 
 ### 2011 to 2015: Omni-ID - Embedded Systems Engineer
 
