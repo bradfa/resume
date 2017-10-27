@@ -1,12 +1,12 @@
 # Andrew Bradford
 
-1870 Halesworth Ln  
-Ontario, NY 14519  
-[andrew@bradfordembedded.com][email]  
+LinkedIn: [https://www.linkedin.com/in/bradfa/][linkedin]<br/>
+[andrew@bradfordembedded.com][email]
 (585) 271-5864  
 
 Personal blog: [Bradford Embedded][blog]
 
+[linkedin]: https://www.linkedin.com/in/bradfa/
 [email]: mailto:andrew@bradfordembedded.com
 [blog]: http://www.bradfordembedded.com
 
