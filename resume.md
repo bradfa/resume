@@ -16,12 +16,14 @@ Personal blog: [Bradford Embedded][blog]
 * Contributor to the [Linux][linux] kernel.
 * Contributor to the [Das U-Boot][u-boot] boot loader.
 * Former participant in the [BeagleBoard.org][beagle] community.
+* Operator of an [NTP Pool server in India][ntp-pool].
 * My [GitHub][github] account.
 
 [clfs]: http://clfs.org/view/clfs-embedded/
 [beagle]: http://beagleboard.org
 [u-boot]: http://www.denx.de/wiki/U-Boot/WebHome
 [linux]: http://www.kernel.org
+[ntp-pool]: http://www.pool.ntp.org/user/bradfa
 [github]: http://github.com/bradfa
 
 ## Employment
