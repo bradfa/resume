@@ -62,7 +62,7 @@ Personal blog: [Bradford Embedded][blog]
 * Set up and maintained a custom Debian Linux package repository using reprepro.
 * Developed firmware for the Omni-ID Power 400 active RFID tag.
 
-### 2010 to 2011: Xerox - Electrical Engineer
+### 2005 to 2011: Xerox - Electrical Engineer in Various Roles
 
 * Improved 13.56 MHz near field RFID readers: doubled the read and write range
   of a reader system used on Xerox toner packing manufacturing lines.
@@ -70,23 +70,16 @@ Personal blog: [Bradford Embedded][blog]
 * Enhanced Verilog HDL used within an RFID reader.
 * Reverse engineered various proprietary encryption / authentication systems.
 * Inventor on 2 patent applications.
-
-### 2008 to 2010: Xerox - Embedded Software and Test Engineer
-
-* Created a C++ XML-RPC server for an embedded PowerPC Linux system to automate
-  manufacturing functional test.
-* Created a Java based functional test organization system utilizing XML-RPC.
+* Created a Java based functional test automation and organization system and
+  corresponding embedded C++ server utilizing XML-RPC.
 * Built and supported PowerPC Linux cross compilers.
-* Maintained existing test fixtures for testing embedded systems, including
-  enhancements to LabVIEW based test fixtures.
-
-### 2005 to 2008: Xerox - Power Supply Integration Engineer
-
+* Maintained existing test fixtures, including enhancements to LabVIEW based
+  test fixtures.
 * Specified AC/DC power supplies for use in Xerox Nuvera digital presses.
 * Constructed test fixtures and validated power supplies against specifications.
 * Wrote service documentation for power systems.
 * Planned and implemented power system improvements to the Xerox Nuvera and iGen
-  lines of digital presses.
+  digital presses.
 
 ## Education
 
