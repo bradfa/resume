@@ -38,37 +38,35 @@ Personal blog: [Bradford Embedded][blog]
   U-Boot.
 * Led technical aspects of defining and implementing open source license
   compliance.
-* Developed a software defined radio test fixture to assist with ETSI 300 328
-  compliance Wi-Fi validation.
-* Firmware developer on the Kodak Alaris i1150WN and i1190WN scanner products,
+* Developed a software defined radio test fixture for ETSI 300 328 compliance
+  Wi-Fi validation.
+* Firmware developer on Kodak Alaris i1150WN and i1190WN scanner products,
   launched in 2016.
-* Firmware developer on the Kodak Alaris S2000 series scanner products,
-  launched in 2017.
+* Firmware developer on Kodak Alaris S2000 series scanner products,
+  launched in 2017 and 2018.
 
 ### 2011 to 2015: Omni-ID - Embedded Systems Engineer
 
-* Led technical development of the Omni-ID Link network gateways (generations 1
-  and 2): specified the hardware design, created the product specifications,
-  created and modified Linux device drivers, deployed a customized version of
-  Debian Linux, and created the multi-threaded RESTful network software
-  application in C which interfaced via XML.
+* Led technical development of the Omni-ID Link network gateways: specified 
+  hardware, created product specifications, created and modified Linux
+  device drivers, deployed a customized version of Debian Linux, and created
+  the multi-threaded RESTful network software application.
 * Led technical development of the Omni-ID Power 415 IEEE 802.15.4 active RFID
-  tag: created the product specification, selected the radio protocol
-  implementation, interfaced directly with customers and partners, and developed
-  firmware.
+  tag: created product specifications, selected the radio protocol
+  implementation, interfaced directly with customers and partners, and
+  developed firmware.
 * Led technical development of the Omni-ID ProVIEW visual active RFID tags
-  starting from 2014: created the product specification, defined the radio
+  starting from 2014: created product specifications, defined the radio
   protocol, coordinated vendors, owned delivery of the family of products, and
-  designed all of the RF impedance matching and antenna tuning circuitry.
+  designed RF impedance matching and antenna tuning circuitry.
 * Set up and maintained a custom Debian Linux package repository using reprepro.
-* Assisted with firmware development of the Omni-ID Power 400 active RFID tag.
+* Developed firmware for the Omni-ID Power 400 active RFID tag.
 
 ### 2010 to 2011: Xerox - Electrical Engineer
 
-* Improved 13.56 MHz near field RFID readers: doubled the read and
-  write range of a reader system used on Xerox toner packing manufacturing
-  lines.
-* Programmed PIC24F and ST7 microcontrollers.
+* Improved 13.56 MHz near field RFID readers: doubled the read and write range
+  of a reader system used on Xerox toner packing manufacturing lines.
+* Developed and maintained firmware for PIC24F and ST7 microcontrollers.
 * Enhanced Verilog HDL used within an RFID reader.
 * Reverse engineered various proprietary encryption / authentication systems.
 * Inventor on 2 patent applications.
