@@ -16,14 +16,13 @@ Personal blog: [Bradford Embedded][blog]
 * Contributor to the [Linux][linux] kernel.
 * Contributor to the [Das U-Boot][u-boot] boot loader.
 * Former participant in the [BeagleBoard.org][beagle] community.
-* Operator of an [NTP Pool server in India][ntp-pool].
+* Former operator of NTP Pool servers.
 * My [GitHub][github] account.
 
 [clfs]: http://clfs.org/view/clfs-embedded/
 [beagle]: http://beagleboard.org
 [u-boot]: http://www.denx.de/wiki/U-Boot/WebHome
 [linux]: http://www.kernel.org
-[ntp-pool]: http://www.pool.ntp.org/user/bradfa
 [github]: http://github.com/bradfa
 
 ## Employment
@@ -38,46 +37,55 @@ Personal blog: [Bradford Embedded][blog]
   U-Boot.
 * Led technical aspects of defining and implementing open source license
   compliance.
+* Leader on the hardware/firmware architecture design team for new products.
+* Led initial development of microcontroller based optical paper sensing and
+  staple detecting projects.
+* Design and verification of System on Chip (SoC) pin multiplexing
+  configurations.
+* Mentor for firmware team new college hires.
 * Developed a software defined radio test fixture for ETSI 300 328 compliance
   Wi-Fi validation.
 * Firmware developer on Kodak Alaris i1150WN and i1190WN scanner products,
   launched in 2016.
 * Firmware developer on Kodak Alaris S2000 series scanner products,
   launched in 2017 and 2018.
+* Firmware developer on Kodak Alaris INfuse AX Scanner product,
+  launched in 2019.
 
 ### 2011 to 2015: Omni-ID - Embedded Systems Engineer
-
-* Led technical development of the Omni-ID Link network gateways: specified 
-  hardware, created product specifications, created and modified Linux
-  device drivers, deployed a customized version of Debian Linux, and created
-  the multi-threaded RESTful network software application.
+* U-Boot bootloader and Linux kernel development for ARM based product.
+* Led technical development of the Omni-ID Link network gateway, a Linux based
+  IoT network gateway.
+* Developed custom Linux device drivers.
+* Contributed software changes upstream to the U-Boot and Debian open source
+  projects.
+* Created a Linux based multi-threaded RESTful network application which
+  interfaced over HTTP via XML.
 * Led technical development of the Omni-ID Power 415 IEEE 802.15.4 active RFID
-  tag: created product specifications, selected the radio protocol
-  implementation, interfaced directly with customers and partners, and
-  developed firmware.
+  tag.
 * Led technical development of the Omni-ID ProVIEW visual active RFID tags
-  starting from 2014: created product specifications, defined the radio
-  protocol, coordinated vendors, owned delivery of the family of products, and
-  designed RF impedance matching and antenna tuning circuitry.
+  starting from 2014.
 * Set up and maintained a custom Debian Linux package repository using reprepro.
-* Developed firmware for the Omni-ID Power 400 active RFID tag.
+* Firmware developer on the Omni-ID Power 400 and 415 active RFID tags.
 
 ### 2005 to 2011: Xerox - Electrical Engineer in Various Roles
 
-* Improved 13.56 MHz near field RFID readers: doubled the read and write range
-  of a reader system used on Xerox toner packing manufacturing lines.
+* Developed and improved 13.56 MHz near field RFID readers: doubled the read
+  and write range of a reader system used on Xerox toner packing manufacturing
+  lines.
 * Developed and maintained firmware for PIC24F and ST7 microcontrollers.
 * Enhanced Verilog HDL used within an RFID reader.
 * Reverse engineered various proprietary encryption / authentication systems.
-* Inventor on 2 patent applications.
+* Inventor on 2 patent applications.  1 US patent granted.
 * Created a Java based functional test automation and organization system and
-  corresponding embedded C++ server utilizing XML-RPC.
+  corresponding embedded Linux based server utilizing XML-RPC.
 * Built and supported PowerPC Linux cross compilers.
 * Maintained existing test fixtures, including enhancements to LabVIEW based
   test fixtures.
-* Specified AC/DC power supplies for use in Xerox Nuvera digital presses.
-* Constructed test fixtures and validated power supplies against specifications.
-* Wrote service documentation for power systems.
+* Specified AC/DC power supplies for use in Xerox Nuvera digital printing presses.
+* Designed and constructed power supply test fixtures and validated power
+  supplies against specifications.
+* Wrote field service documentation for printing press power systems.
 * Planned and implemented power system improvements to the Xerox Nuvera and iGen
   digital presses.
 
@@ -86,3 +94,9 @@ Personal blog: [Bradford Embedded][blog]
 BS Electrical Engineering, Rensselaer Polytechnic Institute, 2005  
 Concentration in electric power systems: generation, conversion, and
 distribution.
+
+## Patents
+* [US Patent 8599231][patent8599231]: Method and apparatus for indicating a part
+  number for a consumable to be used in an image production device
+
+[patent8599231]:https://patents.google.com/patent/US8599231
