@@ -40,7 +40,7 @@ Personal blog: [Bradford Embedded][blog]
 * Leader on the hardware/firmware architecture design team for new products.
 * Led initial development of microcontroller based optical paper sensing and
   staple detecting projects.
-* Design and verification of System on Chip (SoC) pin multiplexing
+* Leader for design and verification of System on Chip (SoC) pin multiplexing
   configurations.
 * Mentor for firmware team new college hires.
 * Developed a software defined radio test fixture for ETSI 300 328 compliance
@@ -65,6 +65,8 @@ Personal blog: [Bradford Embedded][blog]
   tag.
 * Led technical development of the Omni-ID ProVIEW visual active RFID tags
   starting from 2014.
+* Performed 433 MHz and 868/915 MHz antenna selection and designed RF impedance
+  matching circuits.
 * Set up and maintained a custom Debian Linux package repository using reprepro.
 * Firmware developer on the Omni-ID Power 400 and 415 active RFID tags.
 
