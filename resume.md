@@ -1,13 +1,14 @@
 # Andrew Bradford
 
 LinkedIn: [https://www.linkedin.com/in/bradfa/][linkedin]<br/>
-[andrew@bradfordembedded.com][email]
+[bradfa@gmail.com][email]
 (585) 271-5864  
 
-Personal blog: [Bradford Embedded][blog]
+Personal blog: [Bradford Embedded][blog]<br/>
+Amateur Radio Call Sign: KD2TMO
 
 [linkedin]: https://www.linkedin.com/in/bradfa/
-[email]: mailto:andrew@bradfordembedded.com
+[email]: mailto:bradfa@gmail.com
 [blog]: http://www.bradfordembedded.com
 
 ## Open Source Contributions
@@ -30,21 +31,19 @@ Personal blog: [Bradford Embedded][blog]
 ### 2015 to present: Kodak Alaris - Embedded Linux Software Engineer
 
 * U-Boot and Linux kernel development for ARM and x86 based products.
-* Led implementation of an OpenEmbedded (Yocto Project) based build system for
-  embedded Linux products, including writing of recipes and integration of
-  proprietary software.
+* Leader for implementation of OpenEmbedded (Yocto Project) based build systems
+  for embedded Linux products.
 * Contributed patches upstream to OpenEmbedded, the Yocto Project's Poky, and
-  U-Boot.
-* Led technical aspects of defining and implementing open source license
-  compliance.
-* Leader on the hardware/firmware architecture design team for new products.
-* Led initial development of microcontroller based optical paper sensing and
-  staple detecting projects.
+  U-Boot open source projects.
+* Leader for defining and implementing open source license compliance.
+* Co-leader on the hardware/firmware architecture design team for new products.
 * Leader for design and verification of System on Chip (SoC) pin multiplexing
   configurations.
-* Mentor for firmware team new college hires.
-* Developed a software defined radio test fixture for ETSI 300 328 compliance
-  Wi-Fi validation.
+* Led initial development of microcontroller based optical paper sensing and
+  staple detecting projects.
+* Mentor for firmware development team new college hires.
+* Developed a software defined radio (SDR) test fixture for ETSI 300 328 Wi-Fi
+  compliance.
 * Firmware developer on Kodak Alaris i1150WN and i1190WN scanner products,
   launched in 2016.
 * Firmware developer on Kodak Alaris S2000 series scanner products,
@@ -74,7 +73,7 @@ Personal blog: [Bradford Embedded][blog]
 
 * Developed and improved 13.56 MHz near field RFID readers: doubled the read
   and write range of a reader system used on Xerox toner packing manufacturing
-  lines.
+  lines by designing a new antenna and increasing power output.
 * Developed and maintained firmware for PIC24F and ST7 microcontrollers.
 * Enhanced Verilog HDL used within an RFID reader.
 * Reverse engineered various proprietary encryption / authentication systems.
