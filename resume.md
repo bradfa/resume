@@ -28,6 +28,8 @@ Amateur Radio Call Sign: KD2TMO
 
 ## Employment
 
+### 2020 to present: SoftIron - Software Engineer
+
 ### 2015 to 2020: Kodak Alaris - Embedded Linux Software Engineer
 
 * U-Boot and Linux kernel development for ARM and x86 based products.
