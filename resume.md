@@ -28,7 +28,7 @@ Amateur Radio Call Sign: KD2TMO
 
 ## Employment
 
-### 2015 to present: Kodak Alaris - Embedded Linux Software Engineer
+### 2015 to 2020: Kodak Alaris - Embedded Linux Software Engineer
 
 * U-Boot and Linux kernel development for ARM and x86 based products.
 * Leader for implementation of OpenEmbedded (Yocto Project) based build systems
