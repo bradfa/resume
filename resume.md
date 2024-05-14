@@ -30,6 +30,13 @@ Amateur Radio Call Sign: KD2TMO
 
 ### 2020 to present: SoftIron - Software Engineer
 
+* BMC (baseboard management controller) firmware development.
+* Buildroot product integration.
+* UEFI firmware development for x86_64 AMD server systems.
+* Custom and Debian-derivative Linux distribution development for ARM and x86_64
+  systems, including custom and repackaged Debian packaging.
+* General C, C++, and Python firmware and software development.
+
 ### 2015 to 2020: Kodak Alaris - Embedded Linux Software Engineer
 
 * U-Boot and Linux kernel development for ARM and x86 based products.
