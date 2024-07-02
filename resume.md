@@ -28,7 +28,7 @@ Amateur Radio Call Sign: KD2TMO
 
 ## Employment
 
-### 2020 to present: SoftIron - Software Engineer
+### 2020 to 2024: SoftIron - Software Engineer
 
 * BMC (baseboard management controller) firmware development.
 * Buildroot product integration.
