@@ -28,6 +28,11 @@ Amateur Radio Call Sign: KD2TMO
 
 ## Employment
 
+### 2024 to present: Konsulko Group - Principal Software Engineer
+
+* OpenEmbedded/Yocto development.
+* Firmware/software development for embedded Linux systems.
+
 ### 2020 to 2024: SoftIron - Software Engineer
 
 * BMC (baseboard management controller) firmware development.
