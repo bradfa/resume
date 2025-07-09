@@ -30,8 +30,14 @@ Amateur Radio Call Sign: KD2TMO
 
 ### 2024 to present: Konsulko Group - Principal Software Engineer
 
-* OpenEmbedded/Yocto development.
-* Firmware/software development for embedded Linux systems.
+* OpenEmbedded/Yocto development for various platforms, including: NVIDIA Jetson
+  Orin Nano, Raspberry Pi 5, NXP i.MX6 and i.MX8, and Texas Instruments AM335x.
+* General firmware and software development for embedded Linux systems,
+  including: NVIDIA Jetson AGX Orin.
+* Secure boot development with NVIDIA Jetson Orin Nano and Raspberry Pi 5.
+* Implementation of firmware upgrade capabilities using [RAUC][rauc].
+
+[rauc]: https://rauc.readthedocs.io/en/latest/
 
 ### 2020 to 2024: SoftIron - Software Engineer
 
