@@ -53,8 +53,8 @@ Amateur Radio Call Sign: KD2TMO
 * U-Boot and Linux kernel development for ARM and x86 based products.
 * Leader for implementation of OpenEmbedded (Yocto Project) based build systems
   for embedded Linux products.
-* Contributed patches upstream to OpenEmbedded, the Yocto Project's Poky, and
-  U-Boot open source projects.
+* Contributed patches upstream to OpenEmbedded, the Yocto Project Poky distro,
+  and U-Boot open source projects.
 * Leader for defining and implementing open source license compliance.
 * Co-leader on the hardware/firmware architecture design team for new products.
 * Leader for design and verification of System on Chip (SoC) pin multiplexing
