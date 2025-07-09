@@ -64,12 +64,8 @@ Amateur Radio Call Sign: KD2TMO
 * Mentor for firmware development team new college hires.
 * Developed a software defined radio (SDR) test fixture for ETSI 300 328 Wi-Fi
   compliance.
-* Firmware developer on Kodak Alaris i1150WN and i1190WN scanner products,
-  launched in 2016.
-* Firmware developer on Kodak Alaris S2000 series scanner products,
-  launched in 2017 and 2018.
-* Firmware developer on Kodak Alaris INfuse AX Scanner product,
-  launched in 2019.
+* Firmware developer on Kodak Alaris i1150WN, i1190WN, S2000, and INfuse AX
+  Scanner products.
 
 ### 2011 to 2015: Omni-ID - Embedded Systems Engineer
 * U-Boot bootloader and Linux kernel development for ARM based product.
